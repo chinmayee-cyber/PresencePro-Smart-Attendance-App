@@ -8,7 +8,7 @@
 
 ## Screenshots
 
-<img style="margin-left:10px;" src="screenshot/1.png" width="19%" >
+
 <img style="margin-left:10px;" src="screenshot/2.png" width="19%" >
 <img style="margin-left:10px;" src="screenshot/3.png" width="19%" >
 <img style="margin-left:10px;" src="screenshot/4.png" width="19%" >
